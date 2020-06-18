@@ -1,0 +1,8 @@
+/alpaca.http
+/src/test/resource/application.conf
+/target/
+*.class
+*.log
+/project/target/
+/project/project/
+/project/project/
